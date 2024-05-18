@@ -3,7 +3,7 @@
 # KnowNetoworks Nodejs with puppeteer
 # ------------------------------------
 
-FROM        node:15-buster-slim
+FROM        node:20-buster-slim
 
 LABEL       author="Hyakimaro" maintainer="knownetworks@protonmail.com"
 
